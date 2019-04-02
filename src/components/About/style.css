@@ -1,0 +1,16 @@
+.backgroundAbout{
+    background: url(../../img/mountains.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.divStudies {
+    padding: 20px;
+    background-color: #ffffffa4;
+    border-radius: 10px;
+}
+
+.divInterests {
+    padding: 20px;
+    background-color: #ffffffa4;
+    border-radius: 10px;
+}
