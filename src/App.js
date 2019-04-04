@@ -10,7 +10,7 @@ import Contact from "./components/Contact/Contact";
 class App extends Component {
   render() {
     return (
-      <div className="container-fluent">
+      <div className="container-fluid">
           <div className="row">
               <div className="col-12">
                   <Header/>

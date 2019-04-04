@@ -1,6 +1,6 @@
 const descriptionProjects = [
     {
-        title: 'Fitness Gooals',
+        title: 'FitnessGoals',
         description: 'Aplikacja trenigowa stworzona w React Native, wykorzystująca serwer wykonany w Spring. Użytkownik może zamieszczać opinie o usługach, czytać wiadomości pobrane z kanału RSS. Ponadto mamy możliwość korzysatnia z chatu online.',
         icon: 'fab fa-react',
         link: 'https://github.com/adrianwegrzyn/FitnessGoals'
